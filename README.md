@@ -1,6 +1,6 @@
 
 ### infer-datapackage.rb
-infer-datapackage.rb assumes [csvkit][https://csvkit.readthedocs.org] is
+infer-datapackage.rb assumes [csvkit](https://csvkit.readthedocs.org) is
 installed (csvkit version 0.9.1 at time of writing). It uses csvkit's csvstat
 command to infer a datapackage.json file. This can be useful for creating a
 skeleton datapackage.json file.
